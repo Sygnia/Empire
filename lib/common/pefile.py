@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """pefile, Portable Executable reader module
 
 

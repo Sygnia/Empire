@@ -6,14 +6,14 @@ class Stager:
     def __init__(self, mainMenu, params=[]):
 
         self.info = {
-            'Name': 'Macro',
+            'Name': 'Narco',
 
-            'Author': ['@enigma0x3', '@harmj0y'],
+            'Author': ['@enigma0x3', '@harmj0y', 'David'],
 
-            'Description': ('Generates an office macro for Empire, compatible with office 97-2003, and 2007 file types.'),
+            'Description': ('Generates an office macro for Empire, added embedded injection'),
 
             'Comments': [
-                'http://enigma0x3.wordpress.com/2014/01/11/using-a-powershell-payload-in-a-client-side-attack/'
+                'https://github.com/monoxgas/sRDI'
             ]
         }
 
